@@ -1,0 +1,5 @@
+I figured out how to see the text when using the .jar file when reading the program.
+What you have to do is create a folder called Enigma and then place the .jar file within that folder.
+Now, create a new folder in the aforementioned folder called Enigma called bin and then unzip all the dialogue folders into that folder.  This serves as the bin folder for the text to remain in.
+Now, the text is visible when executing the .jar file
+I have placed a screenshot of what it should look like in the Photos folder
