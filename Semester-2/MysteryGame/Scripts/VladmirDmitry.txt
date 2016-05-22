@@ -1,0 +1,167 @@
+Vladimir Dmitry
+On September 25, 2015, Russian President Vladimir Dmitry was on his tour of Murmansk, gaining support for his election the following month.  At 2000 hours, President Dmitry was in his hotel room when a fiery explosion blew the entire penthouse suite, along with the floor below, into oblivion.  There were 100 FSO agents killed on the floor below and 60 FSB agents on the floor above, along with the president.  The body was never recovered, most of the items were disintegrated.  Your mission, should you choose to accept it, is to recover the body if possible as well as find out who murdered Dmitry and why they did it.
+Thanks,
+Sergei  Sogu
+Minister of Defense, Head of FSB
+START
+Minister Sogu: Thank you for joining the investigation.  I have assembled a crew to work with you on this mission.  Devin Mitnick is world-renowned for his hacking skills in hacking the US Department of Defense and the British Parliament; he can get into any server or phone in the world.  Atwood Chaney is a British fighter pilot and ace and is going to be in charge of the gadgets during this mission.  Do you have any questions?
+User:
+1. Yes, when do I start?
+2. Which hotel did this take place in?
+3. Did Dmitry have any enemies?
+4. No, I’ll go home to do research.
+END
+If1 user chooses to do research
+Narrator: While doing research in FSB files, you find out that Dmitry wasn’t very popular with the people but was extremely popular with oligarchs.  He had supported a revolution in Afghanistan as well as taking many bribes from oligarchs.  He has a supposed net worth of $85 billion, making him the richest man in the world.  He had ordered and funded an unsuccessful attack on Tel Aviv which angered Israel.  He had three assassination attempts on his life.  It is rumored that he had his first wife killed to marry Miss Russia 2003, Victoria Lorpeva.  He had many drug addictions.  Without any restrictions, he had no restrictions unofficially and he had the nuclear codes and could launch a missile at the US at any time.  He had many affairs and had a drinking addiction.  He raised taxes and increased military spending, most of which went into generals’ pockets.  Local ministers answered directly to him.  He threw many over-the-top parties which royalty across the world attended.  
+If2 user asks which hotel did the bombing take place in.
+The Hotel Metropol Murmansk was the location of where he was bombed.  We can send you files of those who had stayed at the hotel, who came into the hotel, as well as staff for the last week where he was in there.  
+If3 user asks did Dmitry have any enemies.
+He had many enemies: Israel, the people, the family of his first wife, the CIA, Major General Zhukov, and others, but those are the major ones.
+If4 user asks when do I start?
+You start now, thank you for accepting the mission.
+Narrator: How would you like to continue with this mission?
+1.Go to Hotel Metropol to investigate
+2.Talk to enemies of Dmitry
+START
+If user chooses to go to Hotel Metropol (User can pick which question to ask)
+Narrator: You approach the hotel manager of the Hotel Metropol and ask him questions.
+User: What information can you give me about the guests staying here the night Dmitry died?
+Manager: We ran a background check through the FSB system and every guest was a Russian national who had supported Dmitry since day 1.
+User: How many FSB agents were staying at the hotel?
+Manager: The entire 4th floor was booked with FSB agents, it was also blown up with the fifth.  
+User: What about the staff?
+Manager: All the staff is hand-picked from the finest hotels around the world.  We make sure that they have no political grudges and they swear upon hiring that they won’t ever betray a guest at the Metropol.
+User: How many staff was supposed to be stationed on the fourth and fifth floors?
+Manager: There was supposed to be four staff stationed on the floors.
+User: How many were killed in the explosion?
+Manager: All were killed by the explosion.
+User: Was there anyone who didn’t show up for work that day?
+Manager: Everyone showed up except John Johnson who works in elevator maintenance and Pierre DuPont who works in room service.  
+User: Did either one show up for work?
+Manager: Neither was reported in the building.
+User: How long was Dmitry planning on staying at the Metropol?
+Manager: The Kremlin booked the rooms the night before he arrived and immediately occupied the rooms within 1 hour of booking.
+Was there any outside personel that came to the hotel in the few days before Dmitry was supposed to check in?
+There was a plumbing issue on the third floor the day before Dmitry arrived.  We called in the Molotov Brothers plumbing service to fix it.  
+User: Who normally does the plumbing service?
+Manager: We have always used the Molotov Brothers, they are reliable and never shortchange us.  
+User: Were the two Molotov brothers the ones that took care of the plumbing issue?
+Manager: No, two other men showed up.  One had a thick brown beard and blue eyes and the other one was extremely pale with the most interesting set of green eyes one could imagine as it had red streaks within a murky green pupil.
+User: Does the hotel have a helipad?
+Manager: We did before the fifth floor was blown up.  It was the sixth floor and was above 10 feet of noise cancelling material.  
+User: Were there any helicopters that landed after FSB purchased the rooms?
+Manager: The helicopter for Dmitry landed, and the helicopter for Sergei Barchev, ranked 142 on the Forbes 400, landed too.
+User: Thank you for your help, I may talk to you again later.
+END
+Options to continue:
+1.Go to Molotov Brothers plumbing
+2.Go to talk to enemies of Dmitry
+3.Go to talk to Sergei Barchev
+4.Go back to FSB HQ
+If user chooses to go to talk to enemies of Dmitry
+Narrator: The user called a meeting of representatives from Israel and Mossad; the father of Ivana Ivanovich, the first wife of Dmitry; a representative from the _____, the only true democratic branch of Russia, but doesn’t have much power; Major General Zhukov; and the CIA Director, Frank Gates.  Without the guests knowing it, their phones are being hacked by Devin Mitnick as they are talking to the user.
+User: Well, by now we must all know that Dmitry has been blown up at the Hotel Metropol in Murmansk, and we are trying to find out who did it.  Let me cut the rhetoric and be quite frank with you guys, what did any of you have against Dmitry?
+Zhukov: He had served with me in Afghanistan when the USSR invaded.  While fighting, a grenade landed in his bunk and he threw it over into the front lines where it almost blew me up and took off the leg of my comrade.  Then when he was running for politics, he brought up my love affairs to prevent me from getting the nomination and publicly humiliated me.  He never apologized, and the cash given to the military never came to me.  Though none of this is enough for me to blow him up, nor do I have the resources to do so. 
+Israel/Mossad representative, Ben Allon: He funded the terrorists who want our destruction, he attempted to overthrow our government with Russian soldiers, and he threatened to launch an ICMB at Tel Aviv, of course we hate him, though we did not blow him up.
+Ivanovich: My daughter was killed by assassins in her sleep and the week after her murder, Dmitry re-married.  I personally see a coincidence and hate the man for killing my daughter.  I did not, however, blow him up because I don’t have the funds to do so.
+Vasilly (people’s representative): He has failed to represent the people as president.  He is illegitimately elected every year and elections are rigged.  He keeps raising taxes to put in his pockets.  He doesn’t even come close to being the auspicious leader he depicts himself to be.  We as the people who aren’t benefited by his rule don’t personally like him.  
+Gates: We are the CIA, we don’t like anyone outside the US, even then, we hate half the US Congressmen and many times the president.  We especially don’t like Russia and we dislike its leaders, but we had nothing personal against Dmitry and were sorry for his untimely death as we actually liked him as President. 
+User: (over pager to Mitnick) How much longer do you need to hack into the systems?
+Mitnick: Give me half-an-hour.
+User: None of these guys are giving anything, maybe you can find something in their secret files.
+Mitnick: I’ll let you know if I find anything useful.
+User: I will distract them for another hour. 
+One hour later
+User: Thank you for meeting here, I appreciate you coming here to talk to me about this very pressing matter.  
+(to Mitnick) How did the hacking go?
+Mitnick: Nothing in inbox but in secure delete, there were some pretty bad files that may be of some use to you.
+User: I’ll be there as soon as possible.
+At the Kremlin
+User: What did you find?
+Mitnick: Apparently, the only one telling the truth was Ivanovich and Vasilly.  Ivanovich truly is in hard times as he is no longer receiving funds from his daughter and his bank accounts are almost drained.  He needed cash badly and resorted to begging, so I placed a billion ruble of money the KGB stole in 1982 into his bank account with a message to use it wisely.  Vasilly and the people didn’t have any funding that could have been sent to an international terrorist organization or to enemies of Russia.  Without this funding, they couldn’t have funded the terrorists who blew up Dmitry.  However, there was something interesting with Gates, Zhukov, and Allon.  From the looks of Mossad secret files, Allon was an assassin in Operation Wrath of God and one of the men on the list was the father of Dmitry, he and Dmitry never got along.  When he was promoted to head of Mossad, he wrote in his journal entry that he would swear to get revenge on every enemy of Israel.  Zhukov didn’t avoid skimming the army budget like he said that he did, he just did it legally by raising his salary and people didn’t notice one of the highest paid officials in Russia getting a higher salary.  He had been funding many anti-Russia organizations as well as the radical-Islamic groups of ISIS and the Taliban.  He has a majority of his wealth sitting in un-traceable numbered Swiss bank accounts.  We have some funds that are going to Israel and Mossad through fake stock in Israeli companies.  He could very well have funded the terrorists, but he doesn’t have the people or the ability to commit this crime himself.  And finally, Gates is a lying American “patriot”.  He had worked for the CIA since college graduation and he is in his late 50s.  America has too many reasons to dislike Dmitry, like 1990 when Russia supplied the enemies of America AK47s as well as T-54 tanks to fight them.  Then since 2010, they have supported the Islamic radical groups with tanks and planes as well as bombing American allies in the middle-east for the last 3 years.  I managed to find a list of the American spies and I can send this to our friends at the Kremlin if you want.  
+User: Thanks, I shall take this into consideration.
+If User chooses to go to Molotov Brothers plumbing
+Narrator: The user travels to the Murmansk location of the Molotov Brothers Plumbing company.  When he arrives, he is greeted by the brothers and starts the interrogation.  
+User: Who did you send to the Hotel Metropol on Sunday before the hotel was bombed?
+Molotov Brothers: We are closed on Sunday, we never received any phone call. 
+User: did you have any wardrobe missing?
+Molotov Brother: No, all our outfits are accounted for.
+User: Do you have security footage of Sunday?
+Molotov Brother: Yes, I can show you right now.
+Narrator: the footage shows two people matching the description of the two plumbers the receptionist saw at the Metropol entering the door after picking the lock.  They wait for two hours and answer the phone when the Metropol calls.  They take two outfits and leave with a box hidden in one of them.  They return without the box and they place the outfits back in the exact position it was in before and leave, no trace they were even there.
+Molotov Brothers: Those slimy weasels!
+User: Well, it looks like I have the information I need, thank you for your time and cooperation.
+Choices (Some if not done already):
+1.Compare descriptions with CIA spies in Russia (only if unlocked after talking with enemies)
+2.Talk to Sergei Barchev
+3.Talk to enemies of Dmitry (If not done already)
+4.Return to FSB Headquarters
+If User chooses to talk to Sergei Barchev
+Narrator: The user travels to the St. Petersburg residence of Sergei Barchev.  Inside is a sprawling estate with 40 rooms and 52 bathrooms.  The pathway is outlined in gold bars and Barchev doesn’t appear to be hiding his wealth.  When the user raps on the door, Barchev himself answers, welcoming the user.
+Barchev: It was a real shame that Dmitry got blown up.  He was my close friend and saved my life in Afghanistan.  I was eternally grateful to him.  If there is anything I can do to help find the murderers, please tell me and I will gracioulsly do so.
+User: Why were you in the Hotel Metropol on Sunday?
+Barchev: I was going to give a campaign donation myself to Dmitry, but he wasn’t there like he told me.
+User: Where did you get your wealth from? Don’t give me the “through hard work” bs, I want facts.
+Barchev: I had gotten contracts from Dmitry to manufacture guns and tanks for the Russian Army.  There was a handsome bonus for the contractor and I managed to become one.  Because of this, I owe my fortune to Dmitry.  Please don’t tell the KGB or whoever is in charge anymore about this, they will likely kill me.
+User: Don’t worry, your secret is safe with me.  Tell me, what do you know about Zhukov and his dealings with ISreal, you seem to know much about the Russian Army and corruption.
+Barchev: I shouldn’t be telling you this but Zhukov is a traitor to Russia.  Not only does he fund our allies but he also funded Israel and told them about the plan of Dmitry to overthrow their government.  He has also been funding them on many of their anti-Russian jobs they have to complete.  
+User: How do you know all this?
+Barchev: I used to support Zhukov and we used to be really good friends, or so I thought.  One day, he literally threw me under a bus after I said that I would give him ten-billion ruble in my will and when I survived, he tried to put a cap in me but I dodged and survived.  Ever since then, I am only glad to do anything against him.
+User: What about anything between the CIA and Mossad?
+Barchev: My source in the CIA told me that Mossad and the CIA were working on something big.  They had received funding from a third party numbered Swiss bank account and they got two men in Russia.  Though I don’t know what this something is, I sure as h*** know it isn’t good.
+User: Thank you for that, what about corruption in the GRU?
+Barchev: Which one, there are at least 100 I know about?
+User: Anything related to Dmitry.
+Barchev: I know that one man they had in the GRU who protected Dmitry and was blown up in the explosion had bad habits of womanizing and drinking.  Rumors have it that he was approached by Mossad sometime but there is no evidence of that.  
+User: Thank you.
+If user chooses to run cross-check the two men in the Molotov Brothers plumbing with the CIA files
+Narrator: Back at the Kremlin, the user talks with Mitnick about the two men.
+Mitnick: I can run a scan to narrow down the list of suspects.
+User: That would be great
+Mitnick: (After two minutes of typing) Are these your men?
+User: Yes they are
+Mitnick: This is John Johnson and the other is Carl Sanders, two American spies who do the dirty work in Russia.  Why did you want them?
+User: It is for the case, thank you.
+If user chooses to go to the FSB HQ
+Screen: Did you solve the case?
+Options:
+i.Yes
+ii.No, let me go back through the records
+Who orchestrated the explosion:
+i.John Johnson and Carl Sanders
+ii.A GRU Agent
+iii.Sergei Barchev
+iv.The Molotov Brothers
+What was the motive:
+i.Patriotism
+ii.Corruption and foreign influence
+iii.Personal interests
+iv.Hired work
+Who supplied the bomb?:
+i.The CIA
+ii.Mossad
+iii.The Molotov Brothers
+iv.A weapons dealer in Murmansk
+Who provided funding?:
+i.Zhukov
+ii.Sergei Barchev
+iii.A Swiss hedgefund
+iv.Ivanovich
+Who organized the bombing?
+i.The CIA
+ii.Mossad
+iii.Anarchists
+iv.Opponents of Dmitry in the next election
+Who hired the men needed to bomb Dmitry?
+i.Mossad
+ii.The CIA
+iii.FSB
+iv.Vasilly
+How did the bomb get into the hotel?
+i.Dropped off by the Molotov Brothers
+ii.Dropped off by the CIA agents
+iii.Dropped off by Sergei Barchev
+iv.Taken there by the man who orchestrated the bombing
+Are you certain of these answers?
+i.Yes
+ii.No, let me change them

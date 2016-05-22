@@ -1,0 +1,376 @@
+In the office:
+
+Victim: My husband was killed in our house yesterday!
+
+USER: Its going to be alright. We will find the killer So that day who was in the house other than you?
+
+Victim: My son and his friend.
+
+USER: Did you know his friend?
+
+Victim: Yes, for 3 years.
+
+USER: I will pull a few strings and see what I can do.
+
+Victim: Thank you.
+
+(The Victim leaves the office)
+
+USER: So, her husband is dead, in the house there was her son and his friend.
+
+(USER calls his friend, Chief Detective Carlson)
+
+USER: So, I need to know about the murder on Blake Avenue
+
+Carl: Oh, yeah. That case is under process, sons friend is one of suspects
+
+USER: I am not so sure
+
+Carl: Suit yourself. The husband name was Ravichandran Mohandas , age 41, worked in a company called D Tech and has a wife and a son.
+
+USER: Thanks Carl.
+
+(Disconnects call)
+
+USER: How can it be his friend? If he had know them for this long, what is his motives?
+
+(USER goes to the and finds a group of people around it. USER enters house)
+
+USER: There seems to be signs of struggle.
+
+(USER sees a shining object in the drain)
+
+(It is a phone that is damaged)
+
+USER: I wonder if it is the murderers phone.
+
+[DO YOU WANT TO GIVE TO CARLSON(1)? OR TAKE IT TO THE PHONE REPAIR SHOP?]
+
+1. (USER gives it to Carlson)
+
+USER: What did you get?
+
+Carl: This is a big case and all the evidence is confidencial.
+
+[You didnt finish the case!]
+
+2. (USER takes it to the phone repair shop)
+
+USER: So, is it done?
+
+Shop owner: Yeah, it was very difficult. But I got it done.
+
+(USER turns the phone on)
+
+USER: What is his last number he called?
+
+(USER turns on the phone encrypted location detecter)
+
+(USER calls last person the murderer contacted)
+
+Mysterious man: Is it done?
+
+USER: Who are you?
+
+Mysterious man: Who is this?
+
+USER: Who are you?!?
+
+(Mysterious man disconnects call)
+
+USER: Where are you?
+
+(The location shows Scandanavia)
+
+USER: This is big, how is a murder of a common man in New York connected with the person in Scandanavia?
+
+(USER goes to the Victims house)
+
+Victim: Did you get any leads?
+
+[YES(1) OR NO(2)]
+
+1. (USER says yes)
+
+USER: There is big group behind this.
+
+2. (USER says no)
+
+USER: Sorry I cant tell you. But we are close
+     
+USER: Where did your husband keep all his work personals?
+
+Victim: In the basement
+
+(USER goes to the basement)
+
+USER: So, what is important here?
+
+[LOOK AT INSIDE THE CABINET(1) OR LOOK IN THE DRAWER(2) OR LOOK IN THE SHELF(3)]
+
+1. (USER looks in the cabinet)
+
+USER: There is nothing here other than cobwebs
+
+2. (USER looks in the drawer)
+
+USER: What is this?
+
+(USER picks up a sticky note)
+
+USER: D-T-E-C-H
+
+3. (USER looks in shelf)
+
+(USER moves some folders and finds a safe)
+[USER has to enter 3-8-3-2-4 (D-T-E-C-H)]
+
+(USER opens safe)
+
+USER: Oh my god!!!
+
+(USER finds a bunch of papers going against a business man in Scandinavia. Under the name of Floda Reltih. He has cases against him for tax fraud, and illegal construction.)
+
+USER: Somehow, Ravichandran had figured out that Floda was doing illegal business and in return Floda killed him?
+
+(USER calls Carlson)
+
+USER: I am pulling in that favor. I need a quick flight ticket to Sweden to Scandanavia
+
+Carlson: Ok, when do you need it?
+
+USER: Right now!
+
+Carlson: Ok, Ok, Calm down!
+
+(USER leaves to Sweden)
+
+USER: With this I can take him to court.
+
+(Shots are fired and a mysterious van approches)
+
+[Do you want to fire back?(1) or Do you want to run?(2)]
+
+1. (USER fires back)
+
+(Gangsters fire back!)
+
+[YOU DIED!]
+
+2. (USER runs)
+
+(Mysterious van abducts USER)
+
+USER: Who is it?
+
+Man: You should have kept your distance! Where is the evidence?
+
+USER: In my bank locker.
+
+Man: Where in?
+
+USER: In the ICA Banken.
+
+(Man calls someone)
+
+Man: Got intel, sir. Ok.
+
+(Man tells a another mysterious man, Sent our men and destroy the bank!.)
+
+
+Man: What should we do with him, sir? Ok.
+
+(Man disconnects call)
+
+Man: We will take his to the kill zone.
+
+[Do you want to attack them?(1) or Do nothing?(2)]
+
+1. (USER attacks the people)
+
+[YOU DIED!]
+
+2. (USER waits patiently)
+
+(Car stops and USER is shoved out)
+
+USER: I gave you the location, what do you want from me?
+
+Man: Your life
+
+[Do you want to attack them?(1) or jump of the ledge?(2)]
+
+1. (USER attacks them)
+
+[YOU DIED!]
+
+2. (USER jumps off the ledge)
+
+Man: He is dead
+
+(USER wakes up in a straw hut and a lady approaches him)
+
+Lady: Do you feel better now?
+
+USER: How did I get here?!?
+
+Lady: I found you on the shore with a broken rib cage and shards of wood sticking out of your body. You were between life and death.
+
+USER: Thanks for your hospitality. Wait! Where is my phone?
+
+Lady: There was no phone, when I found you.
+
+USER: I need a phone, right now. Please.
+
+Lady: There is phone in the store over there
+
+(Lady points to a wooden house)
+
+USER: How long was I out?
+
+Lady: For a couple of months.
+
+USER: Months!?!
+
+(USER gets his coat and runs to the store)
+
+USER: I want a phone.
+
+Storekeeper: 40 krona
+
+USER: Here
+
+(USER quickly dials Carlsons number)
+
+USER: Carlson, where did you keep the files?
+
+Stranger: Hello
+
+USER: I need to talk to Carlson.
+
+Stranger: Carlson died in a shootout 3 months ago. Who is this?
+
+USER: What!!! I am (Says name).
+
+Stranger: He told me if you ever called to tell you that the files are in your house next to the table.
+
+(USER cries)
+
+USER: Please, I am soo close to finishing a murder case. Can you get me those files? Send it to Vsterbotten. Okay? Thanks.
+
+(USER disconnects)
+
+USER: How can this happen? All this? I cant believe that Floda will go this far!! He is getting everything that is coming for him.
+
+USER: What can I do now?
+
+(USER asks the shopkeeper)
+
+USER: How do I go back to the city?
+
+Shopkeeper: A bus comes that will take you to the city.
+
+USER: Thanks
+
+(Bus comes and USER gets on the Bus)
+
+(Bus drops him off at the Vsterbotten)
+
+(USER gets a apartment and stays)
+
+(USER checks the fedex service for his name)
+
+USER: There it is. The game has started Floda, your end game!
+
+(USER goes to Floda Industries and talks to receptionist)
+
+USER: I am here to see Mr. Floda.
+
+Receptionist: What should I tell him.
+
+[What do you want to do? Tell her.. Death or Carl or Lawsuit]
+
+1) (Death)
+USER: Tell him death is here.
+
+Receptionist: Guards!!!
+
+You were Discovered
+
+2) (Carl)
+
+(Receptionist calls)
+
+Receptionist: Sorry, Mr. Floda is too busy.
+
+3) (Lawsuit)
+
+USER: I am here about a lawsuit.
+
+(Receptionist calls Floda)
+
+Receptionist: Bring him up
+
+(Guards led USER to Floda)
+
+Floda: Well, if it isn't the infamous (Says a main characters name)!
+
+USER: You know why I am here! You know why I am here?!? You killed my friend, torn my case and killed an innocent man.
+
+Floda: What are you going to do, sue me? You dont even have the evidence
+
+USER: It's right here.
+
+(USER drops a file on the table)
+
+Floda: How is this 
+
+USER: And also with a kill order from Interpol. You can come safe and sound or you can go as a corpse. What is your choice?
+
+(Floda reaches for a gun)
+
+[Do you want to: Shoot(1) or Tackle(2)]
+
+
+1) (Tackle)
+
+(USER tries to tackle Floda)
+
+Floda: It isn't your lucky day!
+
+You were killed
+
+2) (Shoot)
+
+(USER shoots Floda)
+
+USER: Today isn't your lucky day.
+
+(USER goes back to America)
+
+(USER goes to Carlson's office)
+
+USER: Did his funeral happen?
+
+Man: Yes, he left something for you.
+
+(USER takes the paper)
+
+USER: What is it?
+
+Man: It is his job. In his will, he said if anything happened to him. You will be the one who will take his position.
+
+(USER leaves office, crying)
+
+USER: It was supposed to be me. I pulled him into a case. He saved my life by losing his!
+
+(USER goes to car and drives to victims house)
+
+(USER talks to victim)
+
+USER: Your husband brought a criminal in that would have destroyed families just like yours. You should be proud.
+
+
+THE END
+MURDER SCRIPT	
+

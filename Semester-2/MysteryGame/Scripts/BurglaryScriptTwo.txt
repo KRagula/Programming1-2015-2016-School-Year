@@ -1,0 +1,205 @@
+Burglary Script 2
+Vikrant Ragula
+Happy Easter
+Introduction to Mystery:  Hello detective.  We have a dilemma that has recently occurred.  The Forbes Magazine Collection has nine Fabergé Eggs.  The eggs are worth millions of dollars each and there is a problem.  Recently, thieves in New York stole the eggs from the collection, and now we do not know their current whereabouts.  We would like to get these eggs returned as soon as possible.  
+Would you like to accept this mission?  Yes      No
+IF YES
+Owner of Collection:  Hello, my name is Kevin Teben.  Thank you so much for accepting this case.  The eggs are worth around $10 million each and we would like their return.  
+You:
+1. Please show me the crime scene
+IF Selection of Show me the crime scene
+You:  Please show me where the crime took place.  I would like to investigate it.
+Owner:  Yes, please follow me.  
+Enters the Crime Scene
+1. Show the place where the criminal entered
+2. Show where the stolen objects were originally and look for clues
+If chooses to see where criminal entered
+You:  Where did the criminal enter the room?  
+Owner:  The thief forced the window after cutting through the security bars on the windows.  He silenced the guard in the room and managed to shut off the alarm system before breaking the glass and stealing the eggs.  The thief exited the room the same way he entered.  
+You:  This is interesting; the glass from the broken window seems to have fallen outside much more than inside.  This could mean the thief had received inside help.  The bars also are not unevenly cut, they are in a very smooth cut indicating they were already damaged and needed a little pressure to be removed from their spots.  The pressure was applied by pulling as there is a rough edge at the outside edge of the bar and not on the inside.  This means one of your staff members is not the most honest and aided in this.  This leads me to the conclusion that the staff member who did this will quit their job very soon as they still needed to disable the alarm.  Please alert me of any staff members who have quit recently or tell me when somebody quits.  I want a full list of names of these people.
+1. Take me to the location where the objects originally were.
+You: Take me to the location where the objects originally were.
+Owner:  They were over here originally.  They were all in glass cases which you can see are shattered.  There were lasers throughout this room to detect movement and there were also wires on the inside of the glass to set off the alarm.  None of these went off.  
+You:  This means that a staff member had to shut down the alarm.  This glass was also very interesting as it did not fall inside the case, but fell on the floor.  He could have cut out the glass on the cases with a sharp tool and then smashed the rest of the glass on the floor afterwards to disguise his way to have stolen the eggs.  Where are the alarms deactivated and activated?
+Owner:  There is one main control room in the building which has the ability to shut down the alarm.  This is the only place that can do this.  There is only one security guard in the room at any given time.  
+You:  Please send the guard here.
+The two answers can be switched around so there is no other script needed
+Interrogation with the guard
+1. Where were you during the robbery
+2. Why were the alarms deactivated
+3. Show me the security footage
+Guard:
+If number one- I was in the bathroom
+If number two - I am not sure as the security cameras in the security room was destroyed by an automatic pistol
+If number three- Please follow me.
+(The interrogator will go through all these questions until number three)
+Guard:  Here is the security footage.  It does not show that there was a robbery at all.  I was very confused by this because it shows the guard doing his routes, but no robbery.  
+You:  This is because the video footage is of an older day.  If you look at the clock in the background, it is not at the same time as that of the robbery.  The date is also five days before the robbery.  This means somebody switched the tapes on you.  Show me the tape for five days ago.  That is where it may be.  
+Guard: Yes sir.
+You:  This is interesting.  This footage is also off.  The date displayed is ten days off from where it should be.  Show me all the tapes that you have.  
+Guard: Here they are.
+You:  Well, here is the correct footage of the crime scene.  Obviously the thief was not the brightest when they switched the tape as they left the original in the files.  Here we see that no security systems are active.  This confirms my suspicions that the guard was taken down after the bars were forced and pulled out.  This shows the guard being shot down by a silenced pistol.  And here, the thief uses a tool to cut a hole in the glass, and then he shatters it on the ground afterwards.  There he goes.  We now know the thief was a man and he had an accomplice.  
+You:  I am going to take this tape and analyze it more.  Goodbye for now.
+A few days later
+A phone is ringing.  
+You: Hello, who is this?
+Owner: I think you will be interested with this information.  One of the staff members has just given me her resignation and she has left.  She is Julia Reynolds.  
+You:  Give me her address and I will talk to her.  Send some guards to follow her when she leaves.  We do not want to lose her.
+Owner:  Yes, I will do it right away.  
+At Julia Reynolds House
+You:  Ms. Reynolds, could I please talk with you.  
+Julia: (Slams the door in your face)
+You:  Ms. Reynolds, please open the door.  (You receive no reply and break down the door)  Ms. Reynolds, please come out here please.  I would like a word with you.
+Julia:  Get out of my house before I call the cops.
+You:  You know that you would not do that.  There may be some very unwanted questions as to my presence and you may get into some very big trouble.  
+Julia:  Ummmmmmmmmmm.  What do you want?
+You:  Tell me why you helped the thief steal the eggs by turning off the alarm.
+Julia:  I don’t know what you are talking about.
+You:  Please don’t make me hurt you for the truth.  It will get very unpleasant for both of us if you do not cooperate.  I found footage from the security room where it shows you walking into the room.  Unfortunately, there was another camera in the corridor that you did not destroy with bullets.  I admire your resilience at trying to resist answering the questions, but it will not help you when I show the footage to the police.  I might even just let your former boss’s guards torment you in any way possible until you talk.
+Julia(Sweating profusely): Uh.  I do not want to be tortured.  I will tell you the name of the thief.  He may kill me for telling you this, but it will be better than what you plan on doing to me if I do not speak.  His name is David Cameron.  He is a professional thief for higher, and he works especially for royalty.  
+You:  Thank you for this information Julia.  Now, unfortunately you may have to meet with an accident.  This will protect you from your partner, so…bang.  
+News reporter:  A burglar broke into the house of a woman, Julia Reynolds.  She confronted the thief and was shot in the legs.  She is currently in the hospital and police are looking for the person who did this.  
+1. Look for who David Cameron is
+2. Identify which royal families would want Faberge Eggs and who can afford a criminal like this.
+If looking for David Cameron
+1. Call underworld contacts
+2. Alert Interpol to give you information
+If calling underworld contacts
+You: Hello Rodger, I was recently doing some research and saw that a criminal stole Fabergé Eggs very recently.  I am impressed by this, and I am curious if I could utilize his services to get some for myself.  
+Rodger:  Sorry, I know who this man is, but he does not like to work for individuals.  He is an exclusive thief that only works for royals.  
+You: Rodger, I know his name is David Cameron.  Just tell me how to contact him so I can utilize his services.  
+Rodger:  His email is quickfingers@gmail.com, you can email him there, but he will reject you.  
+You:  That is fine.  I can try, can’t I?
+Rodger:  Do not tell him where you got his email or I may suddenly go missing.  Goodbye.
+1. Send an email
+AFTER SEND AN EMAIL
+You:  Hello David, please tell me where I can meet you.  There are some items which I would like to acquire and I need your help.  You will be rewarded very sufficiently for this.  
+David:  Please meet me at Tivoli Park in Denmark in three days.  We can discuss this further. 
+You:  Thank you.  I will see you there.
+Three days later at Tivoli Gardens.
+You:  Hello David, how are you?
+David:  I am not David.  I work with him on different missions.  We are both freelance.  David will come in a few minutes.  My name is John.
+You:  John, I am impressed by some work you and David have done lately.  I was wondering who did the Forbes heist lately.  
+John:  You know that we cannot talk about that.  That is breaking some of our rules.
+David:  Hello, sorry I am late, but I had a job I had to finish.  It went well, and now I can listen to your case.  
+You:  Sorry boys, but that won’t happen right now.  Move in.
+Police Officers:  You are under arrest.  Do not move.  You are coming with us.
+You:  Take them to the room so I can interrogate them.  
+Police Officers: Yes sir.
+In a room:
+You:  Which of you stole the eggs from the collection?  They are valuable and I would like them back.  
+David and John:  That is confidential and we can’t tell you that.  
+After ten minutes of convincing.
+You:  Please tell me about the beginning of the crime David.  Tell me where you were when the crime took place and anything you know so I can solve the case.
+David: I admit I was in New York when the crime took place.  I was actually having dinner with one of my friends when the crime took place.  I was surprised to read the crime happened.  
+You:  David, I talked to your friend, and I am sorry to say that is how she led me to you.  She told me that you had done the crime and you are the culprit.  
+David:  Mr. Detective, I did not do the crime and I have never stolen anything in America.  My friend does not work or live in New York, but she does visit New York often.  I admit I have stolen objects, but I have never stolen in America.
+You:  Tell me again where you were during the crime.  
+David:  I was in a restaurant in New York, the restaurant at the Waldorf Astoria when the crime happened.  I was eating some delicious food when it happened.  I am telling you I did not do the crime.
+In the next room a few minutes later
+You:  Hello John, tell me your role in the crime.  
+John:  I did not take part in any crime and I was at my home in England when the crime happened.
+You:  Where were you when the Forbes Collection was stolen.  
+John:  I was in my house in Chelsea, London when the crime took place.  I am a servant of the royal family and I have never visited America other than two times ten years ago.  
+You:  Please show me your passport.  
+John:  Here you go.  
+You:  Interesting, there is a page that is missing in the passport.  This could mean you are not being honest with me.  
+John:  I did not lose any page in my passport, that page was always missing.  
+You:  I also have taken the liberty to check CCTV cameras in Chelsea outside your house, and it looks like you were not home.  
+John:  I was not at home for one hour.  I went out to dinner at a local restaurant and I came back later in the night.
+You:  It also seems that some cameras at JFK saw you in the lobby as well.  I think you are lying to me John.  
+John:  I am not lying to you.  I was in London during the crime.  I can tell you who the client of the heist was though.  I heard news in the underworld that it is one of the royal families in Europe.  That leaves you to find who it was.  But, I was in Chelsea, and I did not commit the crime.
+You:  Thank you John. 
+A few days later
+You:  I am not sure which of the two did the crime, but now I need to find the royal family who did the crime.  
+Owner:  I can pay for a team to help you track down the family.  They can help you in the search from now on.
+You:  Thank you.  I have identified three families which can afford the egg heist, they would be the Temple, the Tersky, and Tolsky families.  They are very rich still and would probably be looking for a rare object to add to their collections.  In fact, two of them already own some Fabergé eggs.
+Owner:  I will see if I can arrange a meeting for you with those families.  They are not the hardest families to get meetings with.  
+You:  Please try and arrange the meetings, but keep your name out of the conversation, otherwise we may have some problems.
+Owner:  I think I see your point, I will let you know when the meetings are arranged.
+A few weeks later
+You:  Thank you for arranging the meetings.  I will go and see them as soon as possible.  
+In Europe:
+You:  Hello King Temple.  It is a pleasure to meet you.  I was wondering if I could ask you a few questions.
+King Temple:  Yes, please come in.  I am curious as to what you have to say.
+You:  King Temple, I was wondering about what are some major pieces in your art collection.  I understand you have made some recent acquisitions related to Fabergé and his eggs as well as some Monet’s and Manet’s.  I heard these were quite costly, but I was wondering on specifics.  
+King Temple:  I have not made acquisitions of eggs, but I did buy a very wonderful Monet from Sotheby’s recently.  It is quite delightful to look at.  Manet has not been in my collection as of yet.  I am looking for one.  As for the eggs, I would love to add more to my collection, but they are not for sale in the market.  They are very beautiful though.  
+You:  Well, I recently talked with a David and John.  They talked about helping you in the recent acquisition of these pieces.  They say they were paid handsomely for it.  
+King Temple:  I do not know who these men are, but I do know I only have one egg.  It is in the other room if you would like to see it.
+You:  Actually, I do not think I have time to see the egg, I have another appointment.  Thank you for your time, I enjoyed it.  Have a good day.
+With the Tersky Family
+You:  Hello Queen Tersky, I was wondering if I could ask you about your art collection.  It seems like a very impressive one.  I was wondering about any recent acquisitions.  
+Queen Tersky:  Actually, I recently bought a pretty Courbet.  It is quite a sight to look at.  
+You:  Actually, I was wondering about any Fabergé eggs.  
+Queen Tersky:  I do not own any of the eggs you are referring to.  I do not own any of these, but I would like to.
+You:  Thank you for your time, but I have one question.  Did you use David and John during your acquisition of the eggs?  I talked to them and they led me to you.  They say you hired them to steal them.  
+Queen Tersky:  I do not know who you are talking about.  Now, please leave.  I would not like to talk with you any longer.
+You:  Goodbye for now.
+A few minutes later
+You:  Hello Owner, I have met two of the suspects.  They are both possibilities, I will meet with the other one tomorrow.  Oh no.  There is a gunman looking for me.  He is in a car driving down the road.  I think I no longer need to talk with the last family.  Call the cops for me.  
+Gunman:  Mr. Detective, where are you.  I need a word with you.
+You:  (Start crawling towards your car to reach your gun)
+Gunman: (Walks around car and sees you and raises his AK-47 to shoot you)
+1. Lunge at the gunman and take him down
+2. Jump over front of car onto other side
+IF LUNGE AT GUNMAN
+You: (You scream and lunge at the gunman to tackle him.  He raises his gun before you get to him and shoots you dead)
+Gunman:  Looks like your luck ran out detective.  
+You Lose
+IF JUMP OVER CAR
+You:  (You react quickly and propel yourself over the car avoiding the hollow tipped bullets of the AK as they slam into the car where you originally were)
+Gunman:  Shoot, hey detective, if you surrender right now, I will not kill you.
+You:  Tough chance that will happen.  I think I will favor my chances trying to escape.  
+1. Wait for gunman to come around car and tackle him and disarm him
+2. Run along the cars on the side of the road and try and get to your cars
+IF WAIT FOR GUNMAN
+The gunman walks around the side of the car with his gun in front of him.  You lunge at him and knock the gun out of his grasp.  It clatters to the ground and you try to bring a fist to his jaw.  You hit him in the jaw and he falls to the ground.  As you move to finish it off, he unsheathes a knife and stabs you in the chest with it.  As you fall to the ground, he pulls out a Makarov and shoots you.
+You lose
+IF YOU RUN ALONG THE CARS
+You are running along the side of the cars using them as cover.  The gunman comes around and you run between two cars as bullets obliterate the windshield of the car next to you.  You continue running and see your car approaching.  You pull out your car keys and unlock the car.  As you get to the car, the gunman shoots a car coming along the road and it crashes into your car, jamming the door.  
+1. Try and enter the car from another door and find the gun inside.  
+2. Wait to ambush the gunman
+If try and enter the car
+You try and pull open the door on the other side of the car and get it open.  You crawl inside it and try and find your pistol inside when the gunman appears behind you and opens up.
+You lose
+If wait to ambush the gunman
+You hide in the rubble of the car that collided with yours.  You find a combat knife in the pocket of the dead driver and wait for the gunman.  As he approaches your car, he first investigates it to see if you are inside, as his back is turned to you, you jump forward and stab him in the back, breaking his spine in the center of his back.  He screams out and drops his gun.  You grab his pistol and shoot him in the shoulders so he can no longer fight you.
+You: (breathing heavily) who are you?
+Gunman:  I am just a hired assassin.  My assignment was to kill you.  Seems you have made some very rich and important enemies who want you eliminated.  
+You:  Tell me who you work for, otherwise I will shoot you until you tell me.
+Gunman:  I won’t tell you no matter what.  (Screams as a bullet thuds into his thigh and hip)
+You:  I will stop if you tell me who hired you.
+Gunman: (Fading from the blood loss) Fine, please stop.  The person who hired me is someone you know.  They are Te… 
+You:  Darn, he died before he could tell me who did the crime.  (Calling the Owner)  Sorry I had to drop the call.  There was a gunman sent to kill me by one of the royal families as far as I can tell.  I killed the gunman before he could tell me who hired him.  I am going to get my team together and they will help me identify which family did the crime.  
+Owner:  That is unfortunate; it would have been great to know who hired him so we could wrap up the case.  Please inform me of further proceedings.  
+You:  Yes sir.  I will tell you when I am close to breaking the case.
+Back at your headquarters with your team
+You:  I had a recent encounter with some enemy and I realized that one of the families I visited recently did the assassination attempt.  The families are on your documents of the case.  I want you to find any evidence as to whether one of them has the eggs and did the crime.
+Taskforce:  Yes sir.  We will get this case solved.
+A few days later
+Operative 1:  Sir, I am working on the Tersky family.  This is interesting, but there is absolutely nothing they have done.  I had Taskforce 2, the hacking division look for anything that they did.  The taskforce undug hundreds of false named accounts with millions of dollars, but there has been absolutely no transfer of money from any of the accounts.  We checked their mail and found they have not received any packages.  We even checked their security cameras, but they never left their castle and nobody came to it either, besides you of course.  However, I did see some movement in bushes on the side of the complex with cameras, and I got a rough face of a person who could have possibly snuck up to the mansion and left as the security cameras were off for 5 minutes.  This is how they could have gotten the eggs.  I also hacked into their call history and found they placed ten calls before you left and only one right after you left.  I could not find the person who received the call, but this is concrete evidence they might have done the crime.
+Operative 2:  I had the same team run the same searches on the Temple family.  They found all the same information about bank accounts and money transfers and withdrawals, none took place.  They did however have many guests visit with hundreds of packages after the crime had happened.  They also had dozens of visitors who were not identifiable because of the poor quality of the cameras.  They also only placed one phone call right after you left their house.  They are also still possible candidates.
+You:  Thank you both of you for doing this work.  Keep looking.  I will call a meeting in a few minutes to talk with everyone and discuss what is happening and have a session on a different approach.
+Ten minutes later
+You:  I called all of you here to discuss the recent discoveries made.  Unfortunately, we have not made the most headwinds in the case as all the evidence we found does not give us a specific culprit, but we have gotten significant evidence to hypothesize who did the crime.  Good job on that evidence.  Now, I thought a session to give you all a break would be good.  We will discuss the motives of the two suspected parties as to who did the crime.  Let’s think of motivations for them to do this.  So, let’s take the Temple family.  What are their motivations?
+After some discussion.
+You:  We heard some good ideas as to their motivation.  Let’s assume that the family really wanted to buy some eggs, but none were for sale.  They might have planned this for years, and when they found the candidate to follow through the crime, they had the money waiting, and the other bank records are too far back to find.  They paid the man who then went to NYC and stole the eggs from the collection.  Then he visits the family and deposits the egg.  He does it publicly so as not to be suspected, or he secretly enters and nobody notices as he get a payment and deposits the egg.  Then he vanishes and the family gets the eggs.  
+Now, let’s look at the Tersky family.  They were very nervous to talk with me and were ready to throw me out of the house.  However, they may have had a similar motive.  They are also related to the President of Russia and could have stolen it to give to him as a gift.  Both of these motives are very good, but let’s be honest, how likely would this be for them to do that.  
+Now, after this, let’s see if we can solve the case.  I want a third of you to follow entirely random leads.  They might not be the most random if they actually solve the case.  Remember, most ideas are not the worst, but do not go looking for a hotdog stand owner or hobo trying to see if they are the criminals.  Now go.
+Ten days later
+Operative 1:  Sir, we found a better resolution picture of the face of the man in the bush.  He is actually a well-known cat burglar who we brought in and interrogated.  Turns out, he did not break before his heart gave out.  He would not speak about why he was in the garden, but he did drop a hint of carrying a package to deliver to the family.  That is all he said, then he was silent as if he was terrified of somebody and was fearing of his life.  We got nothing more out of him, but we know he delivered a package.  He did not reveal the contents, and we suspect he did not know.  That is where we have gotten recently.
+Operative 2:  Sir, we tracked all the packages that were sent to the family and we found that one of them was sent from a fake shipping address.  We visited the place where the address is supposed to be, and turns out it is a military facility in North Korea.  We got a visa and looked around with drones, but got nothing.  We also looked at the visitors and identified three criminals who are known to work together.  They all came at different days and all left carrying packages.  This might mean they were the ones who did the crime.  The men were visited recently, and we forced one of them to say they had money in there.  He said there were millions from a recent heist they had done.  Then, they would say no more no matter how much we motivated them with sharp objects, so we disposed of them one by one as they did not cooperate.  Now we know the family did have money at hand and paid off the criminals for doing a heist for them.  We also are planning on taking an arrest warrant and arresting the family for stealing something.  They might have hired the assassin to get you out of the way as they might have thought you were trying to see if they stole the item they paid for.  We did find an identity of the assassin who attacked you, and he is a contract for hire.  He may have been the one who had been called by the family to kill you after you had left.
+Operative 3:  I was following up random leads like you told me to do.  I thought of an entirely random idea that Teben did the crime.  I did a follow up on it, and I did not exactly get the most evidence, and most of it is really pushy, but I found that he withdrew millions of dollars from his account for no apparent reason.  That is all I have as I did not have the hacking division working on my leads.  I felt it could be reasonably possible that he did the crime as he has a good motive where he can earn billions possibly from insurance and still secretly keep the eggs.  The only flaw with it is that he has not received any money from insurance yet, and he does not have the eggs for sure.  I calculated the insurance, and turns out if he claims it, the company will file for bankruptcy and he will receive their entire holdings of $900 billion dollars as he pays massive payments to them every year.  He could easily have done the tampering on the security systems and metal bars as well.  He would be in the perfect place to do this.
+
+Now it is your decision on who did the crime
+Who did the heist?
+1. Cameron 
+2. John
+Who hired the gunman?
+1. Tersky 
+2. Teben
+3. Temple
+Who stole the Fabergé Eggs?
+1. Tersky
+2. Teben
+3. Temple

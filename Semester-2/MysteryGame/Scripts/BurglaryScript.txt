@@ -1,0 +1,67 @@
+Vikrant Ragula
+Script for Burglary
+The Heist
+	A police officer was walking through the MOMA when he discovered one of the windows was broken.  He panicked and ran into the room where the Starry Night is located.  He ran into a band of thieves who shot him in the legs and ran with Starry Night.  They set off the alarm while running away from the exhibit room and managed to escape the police.  Unfortunately, they have stolen many pieces of art from the museum over the period of one hour and now it is your task to find those who did this crime and arrest them, while finding the stolen paintings.  
+
+Will you help us in this investigation?
+
+Police Chief,
+Larry Smith
+
+
+Police Chief: Thank you for accepting this assignment.  We are very grateful for your time.  The whole police force is overwhelmed by crimes throughout the city and now we need you to help with solving this one case.  The collection of stolen paintings is worth hundreds of millions of dollars and if it is bought by a rich collector, it may never be seen again.  This is very common for stolen paintings to be never recovered.  We have one lead from the crime scene.  The guard who was shot in the legs, had written a name on the ground before he lapsed into a coma.  He wrote the word John Doe on the ground.  We have begun an investigation in the city on all people with that name, but we are finding there are many hundreds of people who are having that name.  And one other clue we have seen is one of them wore a Versace suit under their jacket as the tag of it was pulled off as they tried to climb out of the window.  
+Narrator:  How would you like to proceed with the case?  Would you like to:
+1.	Follow up on the Versace suit lead
+2.	Look for the person with the name John Doe
+
+If doing follow up on the Versace suit lead:
+Narrator: You are visiting the Versace store in New York.  You have arranged a meeting with the manager and will see him in three minutes.  Try and get a list of all people who have bought suits or been gifted suits in the past two months, because through further analysis of the fabric on the tag, the police have found it is at most one and a half months old.  If he does not give the information to you, you have an operational budget of $1, 000, 000 and you have your federal investigation badge and a license to use any force necessary.  Feel free to do what you need to do.  You also have a team of ten operatives waiting for your orders, so if you need help at any time, call them.  They will be available only for this mission, but a new team may be available on other missions.
+Five Minutes Later:
+Manager: Sorry to keep you waiting, I just had a man going by the name of Doe come into my office.  He took quite a while to talk to me.  So, anyways, how can I help you sir.  
+You:  I am an agent of the federal government and I am demanding that you show me a list of all people who have bought your clothing from the last two months.  That is all I want.  
+Manager: We have privacy rules for all of our clients and their purchases and we would be breaking our clients trust if we release the information.  If you ask about a specific client, we can possibly look up his purchases in the store.
+You:  I am sorry, but you have no choice but to tell us.  You will have two options, I will take it from your dead body, or I will use some incriminating evidence against you that you would not like released to the public.  Either way, I am getting the information.
+Manager:  (Sweating profusely) I think that there may be an exception to the rules.  Ummmmmmm.  Please give me a second while I print off the list of clients who made purchases.  There are over one thousand purchases made, but I hope that we can come to a common understanding and avoid bringing up that unwanted information.
+You:  That is arrangeable if I find that the information is timely and helpful.  Otherwise, you may just be out of a job for skimming millions of dollars from the stores profits.
+Manager:  Here is the information you requested.
+You: Thank you.
+A few days later
+You: Finally, I have completed going through the list.  (Placing a call to the backup assistance team) Hey everyone, I found a list of ten names of people who have made purchases for the item of clothing we are looking for.  I want you to visit all of them and do whatever it takes to find if they have been the culprit.  
+Backup Operative #1:  (Five Days after the assistants were sent out) Sir, I talked with the others and all the suspects are clean except for one who has apparently not been at his home since the day of the robbery.  He is our best bet to solving the case.  The others are now on a manhunt looking for him.  They have possibly tracked him down to the island of Mikhail Prokhorov which is North Island off the coast of Seychelles.  We suspect he is the client the criminals stole the paintings for.  He is quite rich with a net worth of 9 Billion Dollars and can afford to do a heist like this and he has an estate on the island where they may be.  The other operatives are now approaching the island by entering Seychelles from different routes and they are buying vehicles while creating plans for their back up plans for the escape and breach of the island.  We are using up the whole operational budget doing this and we will need more money.  
+You:  I will get the more operational funding, but be ready in a few days’ time for me to give the call to move in.  I will need a copy of the finished plan to make the final changes.  
+Backup Operative #1:  We will also be utilizing the help of the locals for translators unless you have somebody who speaks French, Seselwa, and English.
+You:  I may have somebody available who can do that on short notice.  He will be at your location by tomorrow.  I have also put in a request with a Swiss bank that is being blackmailed for illegal crimes and they are giving us $500 million.
+On the day the operation starts
+You:  Begin the operation to investigate the island.  Report everything you find to Operative #1 and he will relay it to me.  
+10 hours later
+Backup Operative #1: The operation was almost a success.  We lost one of the boats to a depth mine planted by the owner of the island that rose accidentally by one of the waves.  One of the men is injured, but we have identified the missing suspect as on the island.  There are dozens of large crates in a pressurized chamber that is water-proof to protect the items contained within. We have stolen one of the boxes, and now it is in one of the boats.  Unfortunately, one of the guards on the island is temporarily incapacitated as he got in the way.  We will open the box on your command.  
+You: Open it.  
+Backup Operative #1:  There is a painting inside that is possibly a Picasso.  It is one of the stolen works of art.  What should we do?
+You: Go back and get the others right now.  We will bring charges against the Russian later, but right now, recover the works of art.  
+Backup Operative #1:  Sir, we have lost one of the operatives in the escape from the island, but now we have obtained all the paintings.  We also raided the house and found dozens of other missing works of art from around the world, especially the Middle East, and we have recovered those as well.  We request backup immediately as the guards on the island are just now sounding the alarm.  Some helicopters may be needed.  
+You:  I have asked the closest USAF base to send in some planes to give you protection and now you can return safely.  
+Police Chief:  We cannot thank you enough for what you have done.  You have recovered the museum pieces for the MOMA as well as dozens of other museums.  You are receiving the multi-million dollar reward for accomplishing this feat as well as from other museums.  Your services are greatly appreciated.  Thank you.
+Other Path
+You:  Hello backup operatives.  I need you to look up all people in the country with the name John Doe and remove those not applicable from the list.  From there, identify the ten most suspicious people who fit this crime and bring them in if you can justify it.  
+Three months later
+Backup Operative #1:  Sir, we have finally identified 5 men who fit the description for the criminal in mind.  We have them under surveillance for 24 hours a day.  We will be able to identify the real culprit if we were able to give some bait.  We need a newspaper article published saying one of the works of art was recovered, then we will be able to identify the culprit.  
+You:  I might have a friend that is able to do that.  She will publish it for the morning newspaper tomorrow.  
+Backup Operative #1:  Thank You sir.
+The next morning
+Backup Operative #1:  Sir, we have found our man.  We taped his lines and heard him calling a man and inquiring if this was remotely true.  He said no, and now we are getting the warrant to have the man arrested and interrogated.  We will get the information from him in a few days, depending on how badly you want him to speak.  
+There are three levels of interrogation to choose from, please select which you want:
+1.	Kind, not much pain
+2.	Medium, average pain
+3.	High, Much pain, but most effective
+Backup Operative #1:  Yes, sir we will be able to do this kind of interrogation.  He will definitely speak soon.  
+Five Days Later
+Backup Operative #1:  This one was tough to crack.  He must really have been afraid of the client to resist for so long.  It took us quite a bit of time, but he has now given in.  He is not very presentable.  
+You:  Who is his client?
+Backup Operative #1:  He says his client is a Mikhail Prokhorov and he is on the North Island of Seychelles with all the paintings plus dozens more.  We are waiting for what to do with the prisoner and what to do to obtain the paintings.  
+You:  We will try blackmail on the Russian, and do what you wish with the prisoner.  He is now irrelevant.  Now, I hope you made a voice recording of the interrogation for this blackmail, and we may need a drone to investigate the island and see if there are paintings.  Find other incriminating evidence.  
+One Month Later
+Backup Operative #1:  Sir, we have a dossier on the man we suspect, there is more than enough information necessary for this.  We await your order.
+You:  Do not worry, I will handle this part.
+5 days later
+ You:  Police Chief, I have obtained the paintings in question through some unfair dealings as well as many more.  They are in a rented warehouse in the shopping district and are available for pickup.  I think you will be impressed.
+Police Chief:  Thank you for completing this task for the police force and the world police.  We are indebted to you for this and we will always be here for you.  You also receive a significant reward for doing this for us.  We do not need the details of the job.  Thank you so much.

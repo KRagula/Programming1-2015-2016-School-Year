@@ -1,0 +1,162 @@
+Finished. Not final. Still subject to changes.
+
+
+I was informed of an event  recently. Two people seemed to suddenly drop dead out of seemingly nowhere within minutes of each other. It couldn’t have been coincidental, considering what happened. That just seems… unlikely. Very unlikely. I went over to that office  as soon as I could, if only to sate my curiosity.
+
+NPC1: Thank you for coming. The bodies are over there, as you can see. 
+MC: I see.
+I walked over to them.
+MC: How did they die?
+Another witness approached me and told me:
+NPC2: I saw them gasping and convulsing moments before they died. They died within minutes of each other.
+MC: Oh? Tell me more. How were they? Were they acting normal?  
+NPC2:  To be honest, they looked like absolute garbage, and probably felt that way too. They reminded me of the people you see on the streets. They weren’t acting normal at all, they looked confused, tired, fatigued. It looked bad, but. I wanted to see if I could do anything, but I didn’t know 
+what to do. They even tried to assure me they were fine. Poor souls... 
+MC: Can you tell me more?
+NPC2: No. Sorry. I got here roughly half an hour before they died.
+MC: Was anyone else here?
+NPC2: There were, but they aren’t here now or are.... The only people here are me and NPC1.
+I asked () :
+MC: Do you think it was murder, or something else? 
+NPC2: Murder. It has to be. What else could it be?
+I thanked NPC2 and walked out. I also asked NPC1 the same question and got the same response. I drove home. 
+MC: Murder by poisoning?… It sure seemed like it. I’ll have to look into this.
+The police also came by not long after I left. I wonder what they found?
+Upon coming home, I proceeded to investigate poisons causing the aforementioned symptoms. It did not take much time to confirm what they were poisoned with: cyanide. 
+I contacted someone I knew at the police department about this. They too had arrived at the same conclusion. We decided to pool our resources. 
+MC: The next day, the police and I worked together on the investigation. It went fairly smoothly, although oddly enough, we found no DNA evidence besides that of the victims.
+Pol: Is this a cell phone?
+MC: Isn’t it obvious?
+Pol: Who does it belong to?
+MC: One of employees? Maybe one of them forgot them. Then again… Take it in. It could be useful.
+Pol: Yes sir.
+MC: As I continued the investigation, I smelled something peculiar. It smelled very familiar, although it was much stronger than before. I followed it and traced it to a bag of almonds. 
+MC: It was at this moment that I berated myself for failing to notice the scent yesterday. The corpses smelled of bitter almonds. The same things I found. They contain cyanide.  
+MC: Come and get this!
+Pol: Yes sir!
+Pol: What did you find?
+MC: The murder weapon. Bitter almonds. They contain cyanide.
+I personally requested that I be given the most important evidence: the phone and the almonds to investigate, and the police granted my request. 
+Over the course of a few days I managed to make use of both pieces of evidence. The phone was relatively easy to hack. I found many interesting things in it. The almonds I managed to trace to a specific store, Der Bäcker, which specialized in obscure culinary items, one of which were bitter almonds. I contacted the police and stated that I had found something. They replied: All right then. Which one shall we investigate first?
+(At this point you can choose to call the police over to see the phone, or you can investigate “Der Bäcker.”)
+
+Follow up on Der Bäcker
+
+Pol email: Ok. We’ll arrange a meeting with the owner as early as possible.
+Later …
+Pol email: So everything’s arranged. You’re going with the chief..
+MC email: Roger that.
+Later that night at Der Bäcker …
+I set my eyes on a fairly unassuming looking office complex in the suburbs. Der Bäcker was written on one of the doors in elaborate blackletter.
+MC: Is this it?
+Pol chief: Yes it is.
+MC: Strange place for a store though. 
+Pol chief: As long as it meets regulations. Let’s go in.
+I followed my police escort into the store. Interesting looking store. I’d be hard pressed to find rare food items anywhere else.  True to its name, the place looked very German, with a very rustic, traditional look to it. The owner, a large man with a thick accent came to meet us.
+Owner: Hello! I've been expecting you!
+We exchanged pleasantries before asking him about the almonds.
+MC: So I hear that you sell bitter almonds here. May I ask you about recent purchases of them and why you carry them? They were used in an apparent double murder.
+Owner: Of course. They are used in some toys of baking. Baking them neutralizes the toxins.
+The few people who buy them are longtime patrons. The only exception is the owner of a restaurant. I’m the only authorized seller of bitter almonds in the region and I take precautionary measures, more specifically, I id them, specifically so things like this don’t happen. 
+MC: I’d like a list of the people who purchased some recently.
+Owner. Of course. Wait here. 
+He printed the list and gave it to me. The police chief and I looked over it. 
+Pol chief: Did you notice anybody suspicious?
+Owner: Besides to two non-regulars, no. Even they didn’t appear suspicious.
+MC: Thank you for your cooperation.
+Pol chief: We’ll come back if we need anything.
+We left.
+Pol chief: Are you ok with handling most of the investigation?
+MC: There is a reason I agreed to collaborate..
+Pol chief: I’ll take that as a yes… I’ve got to leave now. I’ll take you home if you want.
+MC: That would be appreciated. 
+He drove me home and we went on our separate paths.
+Several Days Later
+I had been investigating the people on the list the store owner gave me. He was right they all were regulars with legitimate purposes for buying the almonds except for the other. A man claiming to be a restaurant owner. I decided to personally go to them to see what they knew.
+MC: I should go.
+At this point you can choose to investigate the man.
+If the man is chosen:
+I went over to the man’s home. A rather nice looking house in a quiet suburban neighborhood. I was prepared for this. I carried a large sum of money (kindly provided by the police), rope, a gun, handcuffs, and in my car, “enhanced interrogation” instruments. 
+MC: This better be easy…
+I went to his  door and knocked.
+Man: Umm... Hello. What do need?
+MC: Did you purchase some bitter almonds recently?
+Man: I did... It was for a special wedding cake for a customer. Please... come inside.
+I mentally prepared for him to do something. He seemed to be very awkward. I went inside. He looked like he lived alone. His house looked normal as far as I could tell. 
+Man: Would you like anything? 
+MC: No. 
+I sat at his kitchen table, a sturdy looking, concrete and metal structure.
+MC: Come. Sit.
+He awkwardly sat in front of me. Did I scare him?
+MC: Have you heard of the murders at _? I’m helping out with the investigation.
+Man: Yes… You don’t think I did did it do you?
+MC: Very well… Do you know _ and _?
+Man: I saw their names on tv.
+He looked stressed. I began to press him harder. 
+MC: Where were you at on DD:MM:YY HH:MM
+Man: I was at my restaurant. It was business as usual. 
+So he had an alibi…
+MC: Really?
+Man: Of course! 
+He pulled up a website on his phone, that of his restaurant.
+I scrolled through it. I looked it up. It seems to check out. I’ll tell the police to make sure of it.
+MC: Do you have a record of your customers? Especially of your custom orders?
+Man: I do, but why would be that be any of your concern?
+Was he an idiot? I clearly told him of my intent. I’ll restate it.
+MC: I need it for my investigation.
+Man: I need proof!
+DId I scare him that badly?
+MC: I showed him my phone and showed that my name was on a classified list of investigators on the case.
+Man:???
+So he still refuses. Oh dear…
+(you can choose to torture, or bribe the man at this point.)
+If bribe:
+I showed him a check for $700000.
+MC: This will be yours no strings attached if you give me your list, and your association with the murder.
+Man: really?
+MC: Yes.
+His eyes softened and greedily lit up  
+Man: Ok. I have no association with the murders. I swear on my life. 
+I’ll ask the police to verify this.
+MC: Here you go. Thanks for your time.
+I left his house and returned home.
+If torture: 
+This won’t do.
+MC: I’m getting something in my car. DON’T GO ANYWHERE.
+I handcuffed him to his chair.
+Man(terrifed): Yes sir.
+I got my stuff and proceeded to start. 
+Man(terrified): What are you doing?
+I tied him to his chair and tied his legs together. I flipped his chair and threw a cloth over his face.
+MC: Is there a faucet I can use?
+I found it outside and dragged the man there. I put the man’s head under it and turned it on.
+MC: I really don’t want to do this but…
+After a few moments the man seemed like he was finally on the verge of drowning ready to say something, so I turned it off.
+Man: I don’t know anything about this! I swear! I don’t even know who those people are!
+MC(sarcastically): Oh. ok.
+I called the police over to arrest him. It seemed unwarranted, but I’m not risking it. I taped the man’s mouth shut, and left him for the police to find.
+The police contacted me a few days later. The lead was an apparent dead end. Total waste of time.
+Cell Phone lead.
+It turns out that the cell phone belongs to a woman not present at the office when I came. I went over to the office and asked her out for lunch. She wasn’t very appealing. Worst personality I’ve ever seen, but that isn’t important. I had police backup all over the area.
+I showed her the cell phone.
+MC: This is yours I believe.
+NPC3:  Oh yeah! I forgot that on MM:DD.
+I wouldn’t let her have it. I was reading notes from it. I honestly couldn’t believe that she would put this stuff on her phone. 
+MC: _ : total *****, ****, she should just die already, Conclusion: absolute ****, 10/10 would kill.
+She looked at me with a mortified expression. I started again before she could speak.
+MC: Cruel old hag, etc..
+It was pretty much the same as the first.
+MC: You did it didn’t you. Petty murder. Honestly… There are numer-
+That triggered her.
+NPC3: (pleading) (generic why I did this statement) (they treated me badly statement) They deserved it! **** them!
+MC: Thanks. I recorded the whole thing.
+I pulled out recorder.
+She ran but I held her back.
+I gave her to an undercover officer watching me. 
+MC: Cases closed. Take her away.
+Police: Yes sir. You sure its her?
+MC: Of course. She confessed.
+I tossed him my tape recorder.
+MC: You guys can take it from here. I’m off the case now. 
+I walked off, feeling satisfied.
+
