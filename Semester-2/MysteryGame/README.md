@@ -7,6 +7,6 @@ Siddhant Devaru, Kanishka Ragula, Vikrant Ragula, Naren Anandh, Andy Sudarmadi
   
 **Controls**
   The controls for this game include traveling to different places, sending emails, hacking into servers to download information, finding clues, unearthing evidence, both incriminating and useless.
-![](https://github.com/KRagula/Programming1-2015-2016-School-Year/tree/master/Semester-2/MysteryGame/GUI/LaptopLocationUnlocked.jpg)
-![](https://github.com/KRagula/Programming1-2015-2016-School-Year/tree/master/Semester-2/MysteryGame/GUI/TabletMurdererFound.jpg)
-![](https://github.com/KRagula/Programming1-2015-2016-School-Year/tree/master/Semester-2/MysteryGame/GUI/HackingPhone.jpg)
+![](https://github.com/KRagula/Programming1-2015-2016-School-Year/blob/master/Semester-2/MysteryGame/GUI/LaptopLocationUnlocked.jpg)
+![](https://github.com/KRagula/Programming1-2015-2016-School-Year/blob/master/Semester-2/MysteryGame/GUI/TabletMurdererFound.jpg)
+![](https://github.com/KRagula/Programming1-2015-2016-School-Year/blob/master/Semester-2/MysteryGame/GUI/HackingPhone.jpg)
